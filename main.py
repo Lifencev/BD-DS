@@ -1,6 +1,7 @@
 import app.io.input as input
 import app.io.output as output
 
+
 def main():
     pass
 
